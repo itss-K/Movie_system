@@ -1,2 +1,2 @@
 # Movie_system
-a Movie recommended sys using ML 
+a Movie recommended system suggesting 5 similar movie using cosine distance
